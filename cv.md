@@ -7,8 +7,9 @@
 + [GitHub](https://github.com/Hrydchyk)
 ***
 ## ABOUT MYSELF ##
-I am 30 years old. I work as an ecologist. My profession is not developing in the country. So I want to learn the profession of front-end developer. I study "JS Course" in RSSchool.
-My strength
+I am 30 years old. I work as an ecologist. My profession is not developing in the country. So I want to learn the profession of front-end developer. I study "JS Course" in RSSchool.  
+
+My strength:
 + purposefulness
 + quick learner
 + team playing
