@@ -1,2 +1,3 @@
 # rsschool-cv
-https://Hrydchyk.github.io/rsschool-cv/cv
+ https://Hrydchyk.github.io/rsschool-cv/
+ 
